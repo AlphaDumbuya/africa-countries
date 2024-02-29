@@ -615,13 +615,13 @@ if(countries.length > 0 ){
             
             <ul>
             
-                <li>capital: ${country.capital}</li>
-                <li>Region: ${country.region}</li>
-                <li>Population: ${country.population}</li>
-                <li> Language Spoken: ${country. languageSpoken}</li>
-                <li>Religion: ${country.religion}</li>
-                <li>Staple Food: ${country.stapleFood}</li>
-                <li>Description: ${country.description}</li>
+                <li><b>capital</b>: ${country.capital}</li>
+                <li><b>Region</b>: ${country.region}</li>
+                <li><b>Population</b>: ${country.population}</li>
+                <li> <b>Language Spoken</b>: ${country. languageSpoken}</li>
+                <li><b>Religion</b>: ${country.religion}</li>
+                <li><b>Staple Food</b>: ${country.stapleFood}</li>
+                <li><b>Description</b>: ${country.description}</li>
             </ul>
             </div>                                                                                                                                                                                                                                          
         </section>
