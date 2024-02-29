@@ -612,7 +612,7 @@ if (countries.length > 0) {
             <h2>${country.name}</h2>
             <ul>
             
-                <li><b>capital</b>: ${country.capital}</li>
+                <li><b>Capital</b>: ${country.capital}</li>
                 <li><b>Region</b>: ${country.region}</li>
                 <li><b>Population</b>: ${country.population}</li>
                 <li> <b>Language Spoken</b>: ${country. languageSpoken}</li>
