@@ -143,7 +143,7 @@ footer p a {
 
 
 /* Tablet Styles (up to 768px) */
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 680px) {
     header {
         height: 150px;
     }
