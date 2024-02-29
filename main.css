@@ -39,7 +39,7 @@ main .tabs {
     width: 100%;
     display: flex;
     align-items: center;
-    overflow-x: auto; /* Allow horizontal scrolling for small screens */
+    overflow-x: auto; 
 }
 
 main .tabs ul {
